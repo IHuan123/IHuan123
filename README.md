@@ -1,10 +1,10 @@
 <p align="center">
 <div style="width: 80%;margin: 0 auto;dispaly:flex;align-item:center;justify-content:space-round;gap: 12px">
-<a href="https://github-readme-stats.vercel.app/api?username=IHuan123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IHuan123&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="IHuan123's github stats" width="390"/> 
+<a href="https://github-readme-stats.vercel.app/api?username=landon0502&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=landon0502&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="landon0502's github stats" width="390"/> 
 </a>
-<a  href="https://github-readme-stats.vercel.app/api/top-langs/?username=IHuan123&layout=compact&theme=buefy&hide_border=true"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHuan123&layout=compact&theme=buefy&hide_border=true"  width="300"/> 
+<a  href="https://github-readme-stats.vercel.app/api/top-langs/?username=landon0502&layout=compact&theme=buefy&hide_border=true"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landon0502&layout=compact&theme=buefy&hide_border=true"  width="300"/> 
 </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IHuan123&margin-w=12&margin-h=12)](https://github.com/IHuan123/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=landon0502&margin-w=12&margin-h=12)](https://github.com/landon0502/github-profile-trophy)
 <br/>
 
 <br />
